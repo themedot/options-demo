@@ -15,7 +15,7 @@
     // Retrieving values: get_option( 'your_field_id' )
 
 
-    require_once plugin_dir_path(__FILE__)."/options_demo_form.php";
+    require_once plugin_dir_path(__FILE__)."/options-demo-form.php";
 
     class optionsdemo_Settings_Page {
 
